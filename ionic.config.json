@@ -1,5 +1,7 @@
 {
   "name": "bolao",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

@@ -7,6 +7,10 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  myurl: string;
+
+  constructor() {
+    this.myurl = 'https://www.bolaoesportivo.com.br'
+  }
 
 }
